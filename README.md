@@ -214,7 +214,7 @@ Me: paper, You: paper
 Me: paper, You: rock
 Me: rock, You: rock
 Our overall stats are:
-I won: 36.36%1
+I won: 36.36%
 You won: 27.27%
 We tied: 36.36%
 ```
