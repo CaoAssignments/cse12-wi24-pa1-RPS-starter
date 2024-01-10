@@ -247,7 +247,7 @@ Using a unique move set via command line arguments:
 
 
 ```
-$ java RPS water fire ice ground electric
+$ java RPS electric ground ice fire water
 Let's play! What's your move? (Type the move or q to quit)
 water
 I chose fire. You win.
@@ -267,11 +267,11 @@ Let's play! What's your move? (Type the move or q to quit)
 q
 Thanks for playing!
 Our most recent games were: 
-Me: electric, You: ice
-Me: ground, You: electric
-Me: fire, You: ground
-Me: ice, You: fire
 Me: fire, You: water
+Me: ice, You: fire
+Me: fire, You: ground
+Me: ground, You: electric
+Me: electric, You: ice
 Our overall stats are:
 I won: 20.00%
 You won: 40.00%
