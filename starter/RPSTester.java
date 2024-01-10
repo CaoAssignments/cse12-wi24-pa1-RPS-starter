@@ -29,7 +29,7 @@ public class RPSTester {
      * before each test
      */
     @Before
-    public void setUp() throws Exception {
+    public void setUp() {
         rpsGame = new RPS(defaultMoves);
         pokemonGame = new RPS(pokemon);
     }
