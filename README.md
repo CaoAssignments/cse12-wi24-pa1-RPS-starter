@@ -250,32 +250,32 @@ Using a unique move set via command line arguments:
 $ java RPS electric ground ice fire water
 Let's play! What's your move? (Type the move or q to quit)
 water
-I chose fire. You win.
+I chose ground. It's a tie.
 Let's play! What's your move? (Type the move or q to quit)
 fire
 I chose ice. You win.
 Let's play! What's your move? (Type the move or q to quit)
 ground
-I chose fire. It's a tie.
+I chose ground. It's a tie.
 Let's play! What's your move? (Type the move or q to quit)
 electric
-I chose ground. I win.
+I chose fire. It's a tie.
 Let's play! What's your move? (Type the move or q to quit)
 ice
-I chose electric. It's a tie.
+I chose water. It's a tie.
 Let's play! What's your move? (Type the move or q to quit)
 q
 Thanks for playing!
-Our most recent games were: 
-Me: fire, You: water
+Our most recent games were:
+Me: water, You: ice
+Me: fire, You: electric
+Me: ground, You: ground
 Me: ice, You: fire
-Me: fire, You: ground
-Me: ground, You: electric
-Me: electric, You: ice
+Me: ground, You: water
 Our overall stats are:
-I won: 20.00%
-You won: 40.00%
-We tied: 40.00%
+I won: 0.00%
+You won: 20.00%
+We tied: 80.00%
 ```
 
 # Submission Instructions
